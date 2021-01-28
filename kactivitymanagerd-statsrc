@@ -1,0 +1,17 @@
+[Favorites-org.kde.plasma.kicker.favorites.instance-122-610d4883-1d01-4638-baf4-5d17c1cabec7]
+ordering=preferred://browser,kontact.desktop,systemsettings.desktop,org.kde.dolphin.desktop,ktp-contactlist.desktop,org.kde.kate.desktop
+
+[Favorites-org.kde.plasma.kicker.favorites.instance-122-global]
+ordering=preferred://browser,kontact.desktop,systemsettings.desktop,org.kde.dolphin.desktop,ktp-contactlist.desktop,org.kde.kate.desktop
+
+[Favorites-org.kde.plasma.kicker.favorites.instance-123-610d4883-1d01-4638-baf4-5d17c1cabec7]
+ordering=preferred://browser,applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.kate.desktop,applications:libreoffice-writer.desktop,applications:org.kde.konsole.desktop,applications:idea.desktop,applications:pycharm.desktop
+
+[Favorites-org.kde.plasma.kicker.favorites.instance-123-global]
+ordering=preferred://browser,applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.kate.desktop,applications:libreoffice-writer.desktop,applications:org.kde.konsole.desktop,applications:idea.desktop,applications:pycharm.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-2-610d4883-1d01-4638-baf4-5d17c1cabec7]
+ordering=firefox.desktop,org.kde.dolphin.desktop,org.kde.konversation.desktop,libreoffice-writer.desktop,cantata.desktop,kde4-digikam.desktop,org.kde.konsole.desktop,pamac-manager.desktop,pamac-updater.desktop,systemsettings.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-2-global]
+ordering=firefox.desktop,org.kde.dolphin.desktop,org.kde.konversation.desktop,libreoffice-writer.desktop,cantata.desktop,kde4-digikam.desktop,org.kde.konsole.desktop,pamac-manager.desktop,pamac-updater.desktop,systemsettings.desktop

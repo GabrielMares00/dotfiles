@@ -1,0 +1,12 @@
+[MainWindow]
+HDMI-A-0 XPosition=640
+HDMI-A-0 YPosition=319
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAGuAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+splitterSizes=424,212
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/applet-window-buttons-0.8.1.tar.gz
+Name1[$e]=applet-window-buttons-0.8.1.tar.gz

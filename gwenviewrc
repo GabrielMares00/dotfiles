@@ -1,0 +1,16 @@
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update,gwenview.upd:DeleteThumbnailSetting_Rename
+
+[MainWindow]
+HDMI-A-0 XPosition=0
+HDMI-A-0 YPosition=53
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAGuAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/Pictures/Vaporwave.png
+Name1[$e]=Vaporwave.png
+
+[SideBar]
+SideBarSplitterSizes=143,491

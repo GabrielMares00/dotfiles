@@ -1,0 +1,18 @@
+[DownloadDialog Settings]
+HDMI-A-0 Height 1080=444
+HDMI-A-0 Width 1920=700
+
+[KFileDialog Settings]
+Recent Files[$e]=Boyo.png,file:$HOME/Pictures/Vaporwave.png
+Recent URLs[$e]=file:$HOME/,file:$HOME/Pictures/
+detailViewIconSize=16
+
+[MainWindow]
+HDMI-A-0 Height 1080=763
+HDMI-A-0 Width 1920=1040
+HDMI-A-0 XPosition=461
+HDMI-A-0 YPosition=113
+MenuBar=Disabled
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAAAABBAAAAL7AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
